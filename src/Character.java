@@ -1,0 +1,1 @@
+public enum Character { CHEERFUL, MOTHERFUCKER, GOOD, KIND, BAD, AWFUL}
